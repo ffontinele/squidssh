@@ -256,7 +256,7 @@ def main(host=LISTENING_ADDR, port=LISTENING_PORT):
     print ":---FUNCIONANDO LEGAL\n"
     print "LISTENING: " + LISTENING_ADDR
     print "RODANDO NA PORTA: " + str(LISTENING_PORT) + "\n"
-    print ":---CANAL: @PayloadHTTP BY: @LindoFuLL---\n"
+    print ":---CANAL: @fillesnetfree BY: @Fontinele---\n"
     print ":---DEIXE RODANDO EM SEGUNDO PLANO-------\n"
     print ":---------- APERTE,  CTRL A D ------------:\n"
     print ":---------------------------------------:\n"
